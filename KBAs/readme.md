@@ -1,1 +1,1 @@
-Here you can fine the various KBAs I've developed over the years.
+Here you can find the various KBAs I've developed over the years.
